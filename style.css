@@ -139,9 +139,6 @@ body {
   background-position: center;
   background-size: cover;
   background-color: var(--background-primary-color);
-}
-
-.hero .container {
   text-align: center;
   padding-top: 200px;
   padding-bottom: 200px;
